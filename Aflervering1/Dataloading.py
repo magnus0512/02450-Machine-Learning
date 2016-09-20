@@ -6,7 +6,7 @@ import numpy as np
 import xlrd
 
 # Load xls sheet with data
-doc = xlrd.open_workbook('C:\Users\Magnus\Desktop\Machine Learning\Aflervering1\housing.xls').sheet_by_index(0)
+doc = xlrd.open_workbook('housing.xls').sheet_by_index(0)
 
 # Extract attribute names
 attributeNames = doc.row_values(1,0,14)
