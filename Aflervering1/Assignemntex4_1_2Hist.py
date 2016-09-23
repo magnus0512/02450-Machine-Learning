@@ -1,7 +1,6 @@
 # Exercise 4.1.2
 from Dataloading import *
 from pylab import *
-
 # requires data from exercise 4.1.1
 
 figure(figsize=(9,8))

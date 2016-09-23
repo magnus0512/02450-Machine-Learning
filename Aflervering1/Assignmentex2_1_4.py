@@ -17,7 +17,7 @@ Z = Y * V
 
 # Indices of the principal components to be plotted
 i = 0
-j = 13
+j = 1
 
 # Plot PCA of the data
 f = figure()

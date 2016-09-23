@@ -3,7 +3,7 @@
 from pylab import *
 
 # requires data from exercise 4.1.1
-from ex4_1_1 import *
+from Assignmentex2_1_4 import *
 
 boxplot(X)
 xticks(range(1,5),attributeNames)
